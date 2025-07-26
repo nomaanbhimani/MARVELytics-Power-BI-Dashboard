@@ -1,7 +1,5 @@
 # 💥 MARVELytics – Power BI Dashboard of the MCU Universe
 
-[Marvel Dashboard Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F25774872-marvel-logo-red-background&psig=AOvVaw01yaHFqHrkHBxWBDZa0wTj&ust=1753633651863000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPi_3sX42o4DFQAAAAAdAAAAABAE)
-
 ## 🧾 Description
 
 **MARVELytics** is a custom-designed Power BI dashboard that visualizes and analyzes the journey of the **Marvel Cinematic Universe (MCU)** from Phase 1 to Phase 5+. Inspired by the holographic tech aesthetic of **Tony Stark’s J.A.R.V.I.S. interface**, this dashboard combines immersive visuals with actionable insights on box office performance, ratings, production budgets, and more.
