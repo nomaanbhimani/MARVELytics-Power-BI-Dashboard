@@ -1,6 +1,6 @@
 # 💥 MARVELytics – Power BI Dashboard of the MCU Universe
 
-[Marvel Dashboard Banner](https://upload.wikimedia.org/wikipedia/commons/0/0c/MarvelLogo.svg)
+[Marvel Dashboard Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F25774872-marvel-logo-red-background&psig=AOvVaw01yaHFqHrkHBxWBDZa0wTj&ust=1753633651863000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPi_3sX42o4DFQAAAAAdAAAAABAE)
 
 ## 🧾 Description
 
