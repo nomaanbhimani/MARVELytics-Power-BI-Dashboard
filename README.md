@@ -1,6 +1,6 @@
 # 💥 MARVELytics – Power BI Dashboard of the MCU Universe
 
-![Marvel Dashboard Banner](https://upload.wikimedia.org/wikipedia/commons/0/0c/MarvelLogo.svg)
+[Marvel Dashboard Banner](https://upload.wikimedia.org/wikipedia/commons/0/0c/MarvelLogo.svg)
 
 ## 🧾 Description
 
@@ -18,9 +18,9 @@ This project is perfect for:
 
 | File                          | Description                                            |
 |-------------------------------|--------------------------------------------------------|
-| `p2.pbix`                     | Power BI file containing the full dashboard            |
+| `Dashboard.pbix`                     | Power BI file containing the full dashboard            |
 | `marvel_movies_complete_dataset.csv` | Dataset used to build the visuals                 |
-| `theme.json` *(optional)*     | Custom theme inspired by Iron Man HUD (J.A.R.V.I.S.)  |
+
 
 ---
 
@@ -46,7 +46,7 @@ The dashboard uses an **Avenger-style interface**:
 ## 🛠 How to Use
 
 1. Clone or download this repository.
-2. Open `p2.pbix` in **Power BI Desktop**.
+2. Open `Dashboard.pbix` in **Power BI Desktop**.
 3. When prompted, allow access or refresh the dataset.
 4. Explore the dashboard with slicers and visuals!
 
